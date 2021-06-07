@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vit_G" size="1.000000 0.476471" />
+    <ImageTarget name="Oracure" size="1.000000 0.344262" />
+    <ImageTarget name="Amigraine" size="1.000000 0.408638" />
+    <ImageTarget name="Example-QR-code" size="1.000000 1.000000" />
+    <ImageTarget name="Panadol_Extend" size="1.000000 0.522777" />
+  </Tracking>
+</QCARConfig>
