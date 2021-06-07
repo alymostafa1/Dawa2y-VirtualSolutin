@@ -21,4 +21,6 @@ These data will include but not limited to
 1. A 3d model that show the side effects on a human body for easier representation
 1. All pharmacies branches that the medicine is available at
 
+## Proposal Video
+
 [![Proposal Video](Capture.PNG)](https://www.youtube.com/watch?v=3s3_3di3Jt0 "Video Title")
